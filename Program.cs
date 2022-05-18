@@ -7,6 +7,7 @@ namespace ConsoleApp13
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Consloe.WriteLine("You are fucking retard);
         }
     }
 }
